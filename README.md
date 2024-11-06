@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hola, soy Alejandro Imbachi Escalante!
+### Desarrollador apasionado por la tecnología y el aprendizaje constante 🚀
 
-<!--
-**AlejoImB/AlejoImB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Ingeniería de Sistemas y Desarrollo de Software**, y tengo una gran pasión por el **diseño**, la **creatividad**, y la creación de soluciones innovadoras en el mundo digital. Me gusta combinar funcionalidad con estética para desarrollar aplicaciones que sean intuitivas y visualmente atractivas.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y herramientas
+
+- 🎓 Aprendiendo y explorando nuevas tecnologías:
+- **Lenguajes**: JavaScript, Python
+- **Frontend**: React, Angular
+- **Backend**: FastAPI, Node.js, Express
+- **Bases de datos**: PostgreSQL, SQL, Firebase
+- **Otros**: Git, GitHub, Visual Studio Code
+
+
+
+## 🌐 Encuéntrame en:
+
+- [LinkedIn](www.linkedin.com/in/alejandro-imbachi-escalante-7556b6207)
+- [Email](alejoimb10@outlook.com)
