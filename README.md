@@ -17,5 +17,5 @@ Soy estudiante de **Ingeniería de Sistemas y Desarrollo de Software**, y tengo 
 
 ## 🌐 Encuéntrame en:
 
-- [LinkedIn](www.linkedin.com/in/alejandro-imbachi-escalante-7556b6207)
-- [Email](alejoimb10@outlook.com)
+- [LinkedIn] www.linkedin.com/in/alejandro-imbachi-escalante-7556b6207
+- [Email]alejoimb10@outlook.com
