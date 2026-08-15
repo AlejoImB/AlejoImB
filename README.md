@@ -1,5 +1,5 @@
-# 👋 Hola, soy Alejandro Imbachi Escalante!
-### Desarrollador apasionado por la tecnología y el aprendizaje constante 🚀
+#  Hola, soy Alejandro Imbachi Escalante!
+### Desarrollador apasionado por la tecnología y el aprendizaje constante 
 
 Soy estudiante de **Ingeniería de Sistemas y Desarrollo de Software**, y tengo una gran pasión por el **diseño**, la **creatividad**, y la creación de soluciones innovadoras en el mundo digital. Me gusta combinar funcionalidad con estética para desarrollar aplicaciones que sean intuitivas y visualmente atractivas.
 
