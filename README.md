@@ -22,16 +22,8 @@
 <img src="assets/focus.svg" width="100%" alt="Modulos activos" />
 </div>
 
-<img src="assets/sec_stats.svg" width="100%" alt="04 TELEMETRIA" />
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlejoImB&show_icons=true&hide_border=true&bg_color=070b16&title_color=00f0ff&icon_color=ff2bd6&text_color=e8f7ff&ring_color=00f0ff" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejoImB&layout=compact&hide_border=true&bg_color=070b16&title_color=00f0ff&text_color=e8f7ff" alt="Top languages" />
-
-</div>
-
-<img src="assets/sec_contact.svg" width="100%" alt="05 CANAL DE CONTACTO" />
+<img src="assets/sec_contact.svg" width="100%" alt="04 CANAL DE CONTACTO" />
 
 <div align="center">
 
