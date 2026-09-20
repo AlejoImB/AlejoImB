@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" font-family="'JetBrains Mono','Fira Code','Courier New',monospace">
+<defs>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#00f0ff"/>
+<stop offset="1" stop-color="#ff2bd6"/>
+</linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+<path d="M28 0H0V28" fill="none" stroke="#00f0ff" stroke-opacity=".07"/>
+</pattern>
+<filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+<feGaussianBlur stdDeviation="4" result="b"/>
+<feMerge>
+<feMergeNode in="b"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+</defs>
+<rect width="1000" height="330" fill="url(#grid)"/>
+<text x="30" y="46" font-size="13" fill="#ff2bd6" letter-spacing="3">LENGUAJES</text>
+<path d="M30 54H190" stroke="#ff2bd6" stroke-opacity=".4"/>
+<polygon points="240,18 366,18 366,44 356,54 230,54 230,28" fill="#00f0ff" fill-opacity=".06" stroke="#00f0ff" stroke-width="1.4">
+<animate attributeName="stroke-opacity" values="1;.35;1" dur="3s" begin="0.00s" repeatCount="indefinite"/>
+</polygon>
+<text x="298" y="41" font-size="14" fill="#e8f7ff" text-anchor="middle" font-weight="600">JavaScript</text>
+<polygon points="392,18 518,18 518,44 508,54 382,54 382,28" fill="#00f0ff" fill-opacity=".06" stroke="#00f0ff" stroke-width="1.4">
+<animate attributeName="stroke-opacity" values="1;.35;1" dur="3s" begin="0.35s" repeatCount="indefinite"/>
+</polygon>
+<text x="450" y="41" font-size="14" fill="#e8f7ff" text-anchor="middle" font-weight="600">TypeScript</text>
+<polygon points="544,18 630,18 630,44 620,54 534,54 534,28" fill="#00f0ff" fill-opacity=".06" stroke="#00f0ff" stroke-width="1.4">
+<animate attributeName="stroke-opacity" values="1;.35;1" dur="3s" begin="0.70s" repeatCount="indefinite"/>
+</polygon>
+<text x="582" y="41" font-size="14" fill="#e8f7ff" text-anchor="middle" font-weight="600">Python</text>
+<text x="30" y="108" font-size="13" fill="#ff2bd6" letter-spacing="3">FRONTEND</text>
+<path d="M30 116H190" stroke="#ff2bd6" stroke-opacity=".4"/>
+<polygon points="240,80 316,80 316,106 306,116 230,116 230,90" fill="#00f0ff" fill-opacity=".06" stroke="#00f0ff" stroke-width="1.4">
+<animate attributeName="stroke-opacity" values="1;.35;1" dur="3s" begin="0.35s" repeatCount="indefinite"/>
+</polygon>
+<text x="273" y="103" font-size="14" fill="#e8f7ff" text-anchor="middle" font-weight="600">React</text>
+<polygon points="342,80 438,80 438,106 428,116 332,116 332,90" fill="#00f0ff" fill-opacity=".06" stroke="#00f0ff" stroke-width="1.4">
+<animate attributeName="stroke-opacity" values="1;.35;1" dur="3s" begin="0.70s" repeatCount="indefinite"/>
+</polygon>
+<text x="385" y="103" font-size="14" fill="#e8f7ff" text-anchor="middle" font-weight="600">Angular</text>
+<polygon points="464,80 530,80 530,106 520,116 454,116 454,90" fill="#00f0ff" fill-opacity=".06" stroke="#00f0ff" stroke-width="1.4">
+<animate attributeName="stroke-opacity" values="1;.35;1" dur="3s" begin="1.05s" repeatCount="indefinite"/>
+</polygon>
+<text x="492" y="103" font-size="14" fill="#e8f7ff" text-anchor="middle" font-weight="600">HTML</text>
+<polygon points="556,80 612,80 612,106 602,116 546,116 546,90" fill="#00f0ff" fill-opacity=".06" stroke="#00f0ff" stroke-width="1.4">
+<animate attributeName="stroke-opacity" values="1;.35;1" dur="3s" begin="1.40s" repeatCount="indefinite"/>
+</polygon>
+<text x="579" y="103" font-size="14" fill="#e8f7ff" text-anchor="middle" font-weight="600">CSS</text>
+<polygon points="638,80 704,80 704,106 694,116 628,116 628,90" fill="#00f0ff" fill-opacity=".06" stroke="#00f0ff" stroke-width="1.4">
+<animate attributeName="stroke-opacity" values="1;.35;1" dur="3s" begin="1.75s" repeatCount="indefinite"/>
+</polygon>
+<text x="666" y="103" font-size="14" fill="#e8f7ff" text-anchor="middle" font-weight="600">Vite</text>
+<text x="30" y="170" font-size="13" fill="#ff2bd6" letter-spacing="3">BACKEND</text>
+<path d="M30 178H190" stroke="#ff2bd6" stroke-opacity=".4"/>
+<polygon points="240,142 336,142 336,168 326,178 230,178 230,152" fill="#00f0ff" fill-opacity=".06" stroke="#00f0ff" stroke-width="1.4">
+<animate attributeName="stroke-opacity" values="1;.35;1" dur="3s" begin="0.70s" repeatCount="indefinite"/>
+</polygon>
+<text x="283" y="165" font-size="14" fill="#e8f7ff" text-anchor="middle" font-weight="600">FastAPI</text>
+<polygon points="362,142 458,142 458,168 448,178 352,178 352,152" fill="#00f0ff" fill-opacity=".06" stroke="#00f0ff" stroke-width="1.4">
+<animate attributeName="stroke-opacity" values="1;.35;1" dur="3s" begin="1.05s" repeatCount="indefinite"/>
+</polygon>
+<text x="405" y="165" font-size="14" fill="#e8f7ff" text-anchor="middle" font-weight="600">Node.js</text>
+<polygon points="484,142 580,142 580,168 570,178 474,178 474,152" fill="#00f0ff" fill-opacity=".06" stroke="#00f0ff" stroke-width="1.4">
+<animate attributeName="stroke-opacity" values="1;.35;1" dur="3s" begin="1.40s" repeatCount="indefinite"/>
+</polygon>
+<text x="527" y="165" font-size="14" fill="#e8f7ff" text-anchor="middle" font-weight="600">Express</text>
+<text x="30" y="232" font-size="13" fill="#ff2bd6" letter-spacing="3">DATOS</text>
+<path d="M30 240H190" stroke="#ff2bd6" stroke-opacity=".4"/>
+<polygon points="240,204 366,204 366,230 356,240 230,240 230,214" fill="#00f0ff" fill-opacity=".06" stroke="#00f0ff" stroke-width="1.4">
+<animate attributeName="stroke-opacity" values="1;.35;1" dur="3s" begin="1.05s" repeatCount="indefinite"/>
+</polygon>
+<text x="298" y="227" font-size="14" fill="#e8f7ff" text-anchor="middle" font-weight="600">PostgreSQL</text>
+<polygon points="392,204 448,204 448,230 438,240 382,240 382,214" fill="#00f0ff" fill-opacity=".06" stroke="#00f0ff" stroke-width="1.4">
+<animate attributeName="stroke-opacity" values="1;.35;1" dur="3s" begin="1.40s" repeatCount="indefinite"/>
+</polygon>
+<text x="415" y="227" font-size="14" fill="#e8f7ff" text-anchor="middle" font-weight="600">SQL</text>
+<polygon points="474,204 580,204 580,230 570,240 464,240 464,214" fill="#00f0ff" fill-opacity=".06" stroke="#00f0ff" stroke-width="1.4">
+<animate attributeName="stroke-opacity" values="1;.35;1" dur="3s" begin="1.75s" repeatCount="indefinite"/>
+</polygon>
+<text x="522" y="227" font-size="14" fill="#e8f7ff" text-anchor="middle" font-weight="600">Firebase</text>
+<text x="30" y="294" font-size="13" fill="#ff2bd6" letter-spacing="3">HERRAMIENTAS</text>
+<path d="M30 302H190" stroke="#ff2bd6" stroke-opacity=".4"/>
+<polygon points="240,266 296,266 296,292 286,302 230,302 230,276" fill="#00f0ff" fill-opacity=".06" stroke="#00f0ff" stroke-width="1.4">
+<animate attributeName="stroke-opacity" values="1;.35;1" dur="3s" begin="1.40s" repeatCount="indefinite"/>
+</polygon>
+<text x="263" y="289" font-size="14" fill="#e8f7ff" text-anchor="middle" font-weight="600">Git</text>
+<polygon points="322,266 408,266 408,292 398,302 312,302 312,276" fill="#00f0ff" fill-opacity=".06" stroke="#00f0ff" stroke-width="1.4">
+<animate attributeName="stroke-opacity" values="1;.35;1" dur="3s" begin="1.75s" repeatCount="indefinite"/>
+</polygon>
+<text x="360" y="289" font-size="14" fill="#e8f7ff" text-anchor="middle" font-weight="600">GitHub</text>
+<polygon points="434,266 530,266 530,292 520,302 424,302 424,276" fill="#00f0ff" fill-opacity=".06" stroke="#00f0ff" stroke-width="1.4">
+<animate attributeName="stroke-opacity" values="1;.35;1" dur="3s" begin="2.10s" repeatCount="indefinite"/>
+</polygon>
+<text x="477" y="289" font-size="14" fill="#e8f7ff" text-anchor="middle" font-weight="600">VS Code</text>
+<polygon points="556,266 642,266 642,292 632,302 546,302 546,276" fill="#00f0ff" fill-opacity=".06" stroke="#00f0ff" stroke-width="1.4">
+<animate attributeName="stroke-opacity" values="1;.35;1" dur="3s" begin="2.45s" repeatCount="indefinite"/>
+</polygon>
+<text x="594" y="289" font-size="14" fill="#e8f7ff" text-anchor="middle" font-weight="600">Chrome</text>
+</svg>
