@@ -4,7 +4,7 @@
                      t1i;;::::::::::::::;;it                    alejandro@imbachi
                     1i;;::;;;;;;;;;;;;;;::;i1t                  ─────────────────
                   t1i;::;;i1111iiiiii1111i;;;1t                 Name: "Alejandro Imbachi Escalante"
-                  1i;::;1LGGGGGGGGGGGGGGGLi:;i1                 Role: "Software Developer"
+                  1i;::;1LGGGGGGGGGGGGGGGLi:;i1                 Role: "404"
                   1;;;iitGG00000000000000Ctiiii                 Location: "Bogotá, Colombia"
                  1iiii1tfGGGGGGG0000GGGGGCL1iii1                Education: "Ingeniería de Sistemas"
                  t1i;;1tLftt111tLGGLf111ttti;iit                Focus: "Interfaces intuitivas + automatización de procesos"
