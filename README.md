@@ -6,7 +6,7 @@
                   t1i;::;;i1111iiiiii1111i;;;1t                 Name: "Alejandro Imbachi Escalante"
                   1i;::;1LGGGGGGGGGGGGGGGLi:;i1                 Role: "Software Developer"
                   1;;;iitGG00000000000000Ctiiii                 Location: "Bogotá, Colombia"
-                 1iiii1tfGGGGGGG0000GGGGGCL1iii1                Education: "Ingeniería de Sistemas y Desarrollo de Software"
+                 1iiii1tfGGGGGGG0000GGGGGCL1iii1                Education: "Ingeniería de Sistemas"
                  t1i;;1tLftt111tLGGLf111ttti;iit                Focus: "Interfaces intuitivas + automatización de procesos"
                  Lfti;;i1LLLffLL 11 LfffLCLi;;1t                Philosophy: "Combinar funcionalidad con estética"
                 ttffi;ifLLCCf CCLCCLLL LCC ;;itf                Languages: "JavaScript, TypeScript, Python, HTML, CSS"
